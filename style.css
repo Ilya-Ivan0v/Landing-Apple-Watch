@@ -1,0 +1,129 @@
+.logo-love img {
+  padding-top: 150px;
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+  max-width: 100%;
+  width: 268px;
+}
+.tittle-love {
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 636px;
+  height: 100%;
+  font-size: 50px;
+  font-family: "SFProDisplay";
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+
+.img-love img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+/* function */
+.tittle-function {
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  font-family: "SFProDisplay";
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  max-width: 100%;
+  height: 100%;
+  width: 965px;
+  margin: 0 auto;
+}
+.img-function img {
+  display: block;
+  padding-top: 150px;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+}
+/* water */
+.tittle-water {
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+  font-family: "SFProDisplay";
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  width: 515px;
+  max-width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.img-water img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
+/* characteristic */
+.container-characteristic img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+/* basic-characteristic */
+.tittle-basic-characteristic {
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  font-family: "SFProDisplay";
+  width: 1200px;
+  max-width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.list-basic-characteristic {
+  display: flex;
+  align-items: center;
+  padding-top: 110px;
+}
+.list-basic-characteristic li,
+div {
+  list-style-type: none;
+  padding-bottom: 100px;
+  margin: 0 auto;
+  font-family: "SFProDisplay";
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.line-characteristic::before {
+  content: "";
+  margin-left: 70px;
+  margin-top: 20px;
+  width: 150px;
+  height: 1px;
+  background: #000000;
+  display: block;
+  transform: translate(-45%, 0);
+}
+/* equipment */
+.img-equipment img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
